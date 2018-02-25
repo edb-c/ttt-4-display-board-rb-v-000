@@ -1,3 +1,6 @@
+# ecofresi
+# Display board based on current state. 
+#
 def display_board(board)
   
   spaces = "   "
